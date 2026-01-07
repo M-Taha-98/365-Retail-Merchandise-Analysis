@@ -55,21 +55,30 @@ The brand has maintained a trajectory of steady growth, with monthly revenues sc
 ### Market:
 
 <p align="center">
-  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v1_UK%20trend.png" width="45%" />
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v1_UK%20trend.png" height = "399" width = "479" />
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v2_UK%20trend.png" height = "400" width = "501"/>
 </p>
 
 * The **US remains the anchor market**, contributing 55% ($470k) of total revenue. **Internationally, the UK ($157k) and India ($74k) lead**, while the rest of markets cumulatively contribute around 15%.
 * The **UK market signaled an urgent risk in October 2024: order volume hit an all-time low of 60 units**, yielding $8,000 in revenue, 40% below its monthly average of $13,364 up until September 2024. This decline coincided with a drop in customer satisfaction (from 60% to 51.7%) and a record-low rating of 3.13 in the clothing vertical, **indicating immediate friction in regional fulfillment or quality assurance**.
-* **In Canada** (6% revenue share) which contributes nearly 6% of the revenue share, highest after the major markets of US, UK and India, **the brand faces an Average Unit Retail (AUR) deficit**. While Canadian consumers demonstrate strong purchasing power with the highest Units Per Transaction (UPT) at 1.73, the AOV remains disproportionately low at $77.46, lowest amongst all international markets. Analysis confirms this is not a lack of interest in clothing vertical negating product mix shift towards lower price-tier, but a **missed opportunity in seasonal alignment**; only 35% of sales are high-value winter-wear (zip jacket and hoodie), despite Canada’s winter-accumulated climate, suggesting a need for more aggressive promotion of premium winter outerwear.
+  
+<p>
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/raw/main/Assets/v3_Canada%20trend.png" align="right" width="450" />
 
+* **In Canada** (6% revenue share) which contributes nearly 6% of the revenue share, highest after the major markets of US, UK and India, **the brand faces an Average Unit Retail (AUR) deficit**. While Canadian consumers demonstrate strong purchasing power with the highest Units Per Transaction (UPT) at 1.73, the AOV remains disproportionately low at $77.46, lowest amongst all international markets. Analysis confirms this is not a lack of interest in clothing vertical negating product mix shift towards lower price-tier, but a **missed opportunity in seasonal alignment**; only 35% of sales are high-value winter-wear (zip jacket and hoodie), despite Canada’s winter-accumulated climate, suggesting a need for more aggressive promotion of premium winter outerwear.
+</p>
+
+<br clear="right"/>
 
 ### Customer Feedback:
 
-* Data confirms a **direct correlation between high ratings and conversion velocity**. The **"Other" product vertical remains the most significant drag on brand sentiment** with consistently lowest ratings in the international market apart from Canada, due to suspected transit damage and handling issues in international lanes. The quality issues can be further verified through return claims with availability of return transactions data. 
+* Data confirms a **direct correlation between high ratings and conversion velocity**. The **"Other" product vertical remains the most significant drag on brand sentiment** with consistently lowest ratings in the international market apart from Canada, due to suspected transit damage and handling issues in international lanes. The quality issues can be further verified through return claims with availability of return transactions data.
+
+<p align="center">
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v5_India%20trend.png" width="650" />
+</p>
+
 * **Sentiment risks are particularly acute in India**, where the "Ornaments" and "Other" categories have seen satisfaction levels plummet, with 35% and 31.5% of customers reporting negative experiences, respectively. This is amongst the highest ratio of dissatisfied customers for these two product verticals. This dissatisfaction in a high-growth market underscores the necessity of investigating the material perception of goods upon delivery and the integrity of international shipping protocols.
-
-[Visualization specific to category 4]
-
 
 
 ## 📈 Recommendations:
