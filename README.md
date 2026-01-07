@@ -18,8 +18,9 @@ An interactive Power BI dashboard used to report and explore trends can be found
 
 The merchandise’s database structure as seen below consists of four tables: transactions, customers, market_lookup, and dim_calendar, with a total of 7,500 records. 
 
-[Entity Relationship Diagram here]
-
+<p align="center">
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/Data%20model.png" width="400" />
+</p>
 
 
 ## 📝 Executive Summary
@@ -42,20 +43,24 @@ The brand has maintained a trajectory of steady growth, with monthly revenues sc
 
 ### Product:
 
+<p align="center">
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v4_product%20quality.png" width="600" />
+</p>
+
 * **"T-Shirt" serves as the brand’s primary volume driver**, accounting for 20% of total unit sales ($190k+ revenue), whereas "Wall Flags" represent a niche segment at 2% of total volume. 
 * A critical **performance gap exists within the premium catalog** (Premium Hoodies and Zip Jackets), which suffers from consistently low ratings across several markets—reaching a nadir of 3.11 and 3.07 respectively in Canada. These metrics suggest latent quality control issues and/or shipping disruptions that are currently throttling the growth of high-margin SKUs.
 * Demographically, Gen-Z and Millennial cohorts show identical basket values (~$116). Male consumers drive 70% of revenue ($600k), over twice that as females, with a **shared preference for the Clothing vertical**, which commands three-quarter of total revenue share.
 
-[Visualization specific to category 2]
-
 
 ### Market:
+
+<p align="center">
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v1_UK%20trend.png" width="45%" />
+</p>
 
 * The **US remains the anchor market**, contributing 55% ($470k) of total revenue. **Internationally, the UK ($157k) and India ($74k) lead**, while the rest of markets cumulatively contribute around 15%.
 * The **UK market signaled an urgent risk in October 2024: order volume hit an all-time low of 60 units**, yielding $8,000 in revenue, 40% below its monthly average of $13,364 up until September 2024. This decline coincided with a drop in customer satisfaction (from 60% to 51.7%) and a record-low rating of 3.13 in the clothing vertical, **indicating immediate friction in regional fulfillment or quality assurance**.
 * **In Canada** (6% revenue share) which contributes nearly 6% of the revenue share, highest after the major markets of US, UK and India, **the brand faces an Average Unit Retail (AUR) deficit**. While Canadian consumers demonstrate strong purchasing power with the highest Units Per Transaction (UPT) at 1.73, the AOV remains disproportionately low at $77.46, lowest amongst all international markets. Analysis confirms this is not a lack of interest in clothing vertical negating product mix shift towards lower price-tier, but a **missed opportunity in seasonal alignment**; only 35% of sales are high-value winter-wear (zip jacket and hoodie), despite Canada’s winter-accumulated climate, suggesting a need for more aggressive promotion of premium winter outerwear.
-
-[Visualization specific to category 3]
 
 
 ### Customer Feedback:
