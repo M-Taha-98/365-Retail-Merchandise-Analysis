@@ -45,7 +45,7 @@ The brand has maintained a trajectory of steady growth, with monthly revenues sc
 
 <br clear="right"/>
 
-### Product:
+### Product Performance:
 
 <p align="center">
   <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v4_product%20quality.png" width="600" />
@@ -56,7 +56,7 @@ The brand has maintained a trajectory of steady growth, with monthly revenues sc
 * Demographically, Gen-Z and Millennial cohorts show identical basket values (~$116). Male consumers drive 70% of revenue ($600k), over twice that as females, with a **shared preference for the Clothing vertical**, which commands three-quarter of total revenue share.
 
 
-### Market:
+### Market Analysis:
 
 <p align="center">
   <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v1_UK%20trend.png" height = "399" width = "479" />
