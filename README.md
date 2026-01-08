@@ -10,8 +10,7 @@ Insights and recommendations are provided on the following key areas:
 -	**Market Performance:** An evaluation of metrics: Sales, Units Sold, AOV across regions, comparison of local vs international regional business performance, and categorizing that across gender split.
 -	**Customer Ratings & Feedback:** An assessment of the customer feedback across different markets and products, impact on revenue and transactions, and identification of common bottlenecks in performance driving poor ratings and reviews.
   
-An interactive Power BI dashboard used to report and explore trends can be found here [link].
-
+An interactive Power BI dashboard used to report and explore trends can be found [here.](https://app.powerbi.com/view?r=eyJrIjoiMzZjMWQ5NGItYzliYS00OTQ3LWI4YWYtNTFhOTJjOTIyYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 📆 Data Structure
@@ -27,19 +26,24 @@ The merchandise’s database structure as seen below consists of four tables: tr
 
 The brand has maintained a trajectory of steady growth, with monthly revenues scaling from $62,000 to a peak of approximately $73,000. While the domestic market remains robust, recent volatility has emerged within international segments, most notably in the UK. High-growth opportunities have been identified in India and Canada, where demand for the core "Clothing" vertical remains strong but is currently offset by localized performance gaps. This report outlines strategic interventions to stabilize international revenue shares, optimize product-category alignment, and address fulfillment-related sentiment risks.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
 
+<p align="center">
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/dashboard_snap.png" width="700" />
+</p>
 
 
 ## 📊 Insights Deep Dive
 ### Sales Trends:
 
-* Over the inaugural fiscal year (November 2023 – November 2024), 365 Retail generated over **$850,000 in gross revenue**, supported by a healthy Average Order Value (AOV) of $116 and a baseline customer rating of 3.5/5.
+<p >
+  <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/blob/main/Assets/v6_revenue_trend.png" align="right" width="600" />
+
+* Over the inaugural year (November 2023 – November 2024), 365 Retail generated over **$850,000 in gross revenue**, supported by a healthy Average Order Value (AOV) of $116 and a baseline customer rating of 3.5/5.
 * **Monthly revenue has seen steady growth over the year**, reaching a high-water mark of $80,000 in May 2024, with order volumes consistently ranging between 550 and 650 units, peaking at 668 orders in January 2024.
 * Localized fluctuations require attention: the **US domestic market experienced revenue contractions** of 20% and 12% below the domestic monthly average in June and August 2024, respectively, while **international revenue saw a significant 20% downturn** in September 2024, falling to $25,500.
+</p>
 
-[Visualization specific to category 1]
-
+<br clear="right"/>
 
 ### Product:
 
@@ -65,7 +69,7 @@ The brand has maintained a trajectory of steady growth, with monthly revenues sc
 <p>
   <img src="https://github.com/M-Taha-98/365-Retail-Merchandise-Analysis/raw/main/Assets/v3_Canada%20trend.png" align="right" width="450" />
 
-* **In Canada** (6% revenue share) which contributes nearly 6% of the revenue share, highest after the major markets of US, UK and India, **the brand faces an Average Unit Retail (AUR) deficit**. While Canadian consumers demonstrate strong purchasing power with the highest Units Per Transaction (UPT) at 1.73, the AOV remains disproportionately low at $77.46, lowest amongst all international markets. Analysis confirms this is not a lack of interest in clothing vertical negating product mix shift towards lower price-tier, but a **missed opportunity in seasonal alignment**; only 35% of sales are high-value winter-wear (zip jacket and hoodie), despite Canada’s winter-accumulated climate, suggesting a need for more aggressive promotion of premium winter outerwear.
+* **In Canada** which contributes nearly 6% of the revenue share, highest after the major markets of US, UK and India, **the brand faces an Average Order Value (AOV) deficit**. While Canadian consumers demonstrate strong purchasing power with the highest Units Per Transaction (UPT) at 1.73, the Average Unit Retail (AUR) remains disproportionately low at $77.46, lowest amongst all international markets. Analysis confirms this is not a lack of interest in clothing vertical negating product mix shift towards lower price-tier, but a **missed opportunity in seasonal alignment**; only 35% of sales are high-value winter-wear (zip jacket and hoodie), despite Canada’s winter-accumulated climate, suggesting a need for more aggressive promotion of premium winter outerwear.
 </p>
 
 <br clear="right"/>
